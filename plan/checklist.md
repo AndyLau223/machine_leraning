@@ -22,7 +22,7 @@ Assumed stack alignment:
 
 ### Week 1
 - [✅] Install Python (conda / pyenv)
-- [ ] Learn NumPy basics (arrays, broadcasting)
+- [✅] Learn NumPy basics (arrays, broadcasting)
 - [ ] Learn Pandas basics (DataFrame, filtering)
 - [ ] Plot simple graphs with Matplotlib
 - [ ] Understand: *What is a feature?*
