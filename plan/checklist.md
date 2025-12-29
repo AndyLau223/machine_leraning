@@ -28,10 +28,10 @@ Assumed stack alignment:
 - [ ] Understand: *What is a feature?*
 
 ### Week 2
-- [ ] Linear algebra intuition (vectors, dot product)
-- [ ] Derivatives & gradients (conceptual)
-- [ ] What is a loss function?
-- [ ] Implement linear regression **from scratch**
+- [✅] Linear algebra intuition (vectors, dot product)
+- [✅] Derivatives & gradients (conceptual)
+- [✅] What is a loss function?
+- [✅] Implement linear regression **from scratch**
 
 ### Week 3
 - [ ] Probability basics (mean, variance)

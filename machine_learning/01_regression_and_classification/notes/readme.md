@@ -17,6 +17,10 @@
 - Self-Supervised Learning
 - Reinforcement Learning
 
+
+## Regression
+
+
 **Cost function**
 
 ---
@@ -47,8 +51,54 @@ Why Square the error?
 - removes negative sign
 - Penalizes big mistakes more
 
-Voca:
 
-- dataset
+**Gradient descent**
+
+___
+
+
+
+
+**Mutilple Features**
+
+---
+
+
+- vectorization
+-
+
+
+## Classification
+
+Classification is a type of machine learning which predict cateogry.
+
+
+**Vocabulary**
+
+___
+
 - Univariate linear regression
 - Cost function
+- mean normalization
+- leanring curve, convergence
+- feature engineering
+- polynomial regression
+- classification
+- logistic regression
+- sigmoid function/logistic function
+- Log Loss (Cross-Entropy)
+- Decision boundary 
+- Non-linear decision boundaries 
+- Cost function for logistic regression
+- Gradient descent for logistic regression
+- overfitting
+- quadratic feature
+- high bias
+- high variance -> this is when the model does not generalize well to new exmaples
+- all features + insufficient data == overfit 
+- regularization 
+- addressing overfitting 
+  - collect more data
+  - select features
+  - reduce size of parameters 
+    - regularization
