@@ -1,0 +1,70 @@
+graph TD
+    AI["Artificial Intelligence"]
+
+    Symbolic["Symbolic AI"]
+    ML["Machine Learning"]
+
+    AI --> Symbolic
+    AI --> ML
+
+    ClassicalML["Classical Machine Learning"]
+    DL["Deep Learning"]
+    RL["Reinforcement Learning"]
+
+    ML --> ClassicalML
+    ML --> DL
+    ML --> RL
+
+    NN["Neural Networks"]
+    Transformer["Transformer Models"]
+
+    DL --> NN
+    NN --> Transformer
+
+    CV["Computer Vision"]
+    Speech["Speech and Audio"]
+    NLP["Natural Language Processing"]
+    GenAI["Generative AI"]
+
+    DL --> CV
+    DL --> Speech
+    DL --> NLP
+    DL --> GenAI
+
+    LLM["Large Language Models"]
+    Diffusion["Diffusion Models"]
+    Multimodal["Multimodal Models"]
+
+    NLP --> LLM
+    GenAI --> LLM
+    GenAI --> Diffusion
+    GenAI --> Multimodal
+
+    Agents["AI Agents"]
+    RL --> Agents
+
+    ANI["Narrow AI"]
+    AGI["General AI"]
+    ASI["Super AI"]
+
+    AI --> ANI
+    AI --> AGI
+    AI --> ASI
+
+    classDef ai fill:#E3F2FD,stroke:#1E88E5,stroke-width:2px,color:#0D47A1
+    classDef symbolic fill:#FFF3E0,stroke:#FB8C00,color:#E65100
+    classDef ml fill:#E8F5E9,stroke:#43A047,color:#1B5E20
+    classDef dl fill:#F3E5F5,stroke:#8E24AA,color:#4A148C
+    classDef domain fill:#FCE4EC,stroke:#D81B60,color:#880E4F
+    classDef model fill:#E1F5FE,stroke:#039BE5,color:#01579B
+    classDef agent fill:#FFFDE7,stroke:#FBC02D,color:#F57F17
+    classDef capability fill:#ECEFF1,stroke:#546E7A,color:#263238
+
+    class AI ai
+    class Symbolic symbolic
+    class ML,ClassicalML,RL ml
+    class DL,NN dl
+    class Transformer,CV,Speech,NLP,GenAI domain
+    class LLM,Diffusion,Multimodal model
+    class Agents agent
+    class ANI,AGI,ASI capability

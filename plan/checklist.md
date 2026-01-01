@@ -49,7 +49,7 @@ Assumed stack alignment:
 
 ### Week 4
 - [ ] Supervised vs unsupervised learning
-- [ ] Linear & logistic regression (sklearn)
+- [✅] Linear & logistic regression (sklearn)
 - [ ] Bias vs variance intuition
 
 ### Week 5
