@@ -138,6 +138,23 @@ The activation function, denoted as g, is identified as the sigmoid function, wh
 
 > **Note:** Use **Sigmoid** for binary outputs, **Softmax** for multiclass, and **ReLU/LeakyReLU** for hidden layers. ✅
 
+
+**Training a Neural Network in TensorFlow**
+
+Step 1: Specify Output Function
+
+Define how to compute the output given input features and model parameters.
+This involves setting up the architecture of the neural network, including the number of hidden layers and units.
+
+Step 2: Define Loss and Cost Functions
+
+Specify the loss function, such as binary cross-entropy for classification tasks.
+The cost function is the average of the loss over all training examples, guiding the optimization process.
+
+Step 3: Minimize Cost Function
+Use gradient descent to minimize the cost function by updating model parameters iteratively.
+TensorFlow automates this process through backpropagation, allowing for efficient training of the neural network.
+
 ---
 
 Vocabulary:
@@ -149,4 +166,17 @@ Vocabulary:
 - input layer
 - hidden layer
 - output layer
--
+- multiclass classification
+- activation function
+- Choosing activation functions
+- softmax regression algorithm
+- training set/test set
+- train accuracy/test accuracy
+- model selection
+- training/cross validation/test sets
+- training/cross validation/test error
+- generalization error
+ - Anverage error on new examples not in the training set
+- what is the purpsoe of model selection?
+ - To choose the best model architecture and hyperparameters that minimize generalization error
+
