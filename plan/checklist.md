@@ -34,8 +34,8 @@ Assumed stack alignment:
 - [✅] Implement linear regression **from scratch**
 
 ### Week 3
-- [ ] Probability basics (mean, variance)
-- [ ] Understand train/test split
+- [✅] Probability basics (mean, variance)
+- [✅] Understand train/test split
 - [ ] Data preprocessing pipeline
 - [ ] Mini-project: data cleaning + simple model
 
@@ -50,7 +50,7 @@ Assumed stack alignment:
 ### Week 4
 - [ ] Supervised vs unsupervised learning
 - [✅] Linear & logistic regression (sklearn)
-- [ ] Bias vs variance intuition
+- [✅] Bias vs variance intuition
 
 ### Week 5
 - [ ] Decision trees
