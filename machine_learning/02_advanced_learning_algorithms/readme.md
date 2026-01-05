@@ -225,3 +225,7 @@ Vocabulary:
   - multiple decision tree
   - tree ensemble
   - samping with replacement
+- random forest algorithm
+- XGBoost
+- When to choose decision tree?
+- 
