@@ -23,9 +23,9 @@ Assumed stack alignment:
 ### Week 1
 - [✅] Install Python (conda / pyenv)
 - [✅] Learn NumPy basics (arrays, broadcasting)
-- [ ] Learn Pandas basics (DataFrame, filtering)
-- [ ] Plot simple graphs with Matplotlib
-- [ ] Understand: *What is a feature?*
+- [✅] Learn Pandas basics (DataFrame, filtering)
+- [✅] Plot simple graphs with Matplotlib
+- [✅] Understand: *What is a feature?*
 
 ### Week 2
 - [✅] Linear algebra intuition (vectors, dot product)
@@ -36,8 +36,8 @@ Assumed stack alignment:
 ### Week 3
 - [✅] Probability basics (mean, variance)
 - [✅] Understand train/test split
-- [ ] Data preprocessing pipeline
-- [ ] Mini-project: data cleaning + simple model
+- [✅] Data preprocessing pipeline
+- [✅] Mini-project: data cleaning + simple model
 
 ✅ Exit: You understand the **language of ML**
 
@@ -48,14 +48,14 @@ Assumed stack alignment:
 ────────────────────────────
 
 ### Week 4
-- [ ] Supervised vs unsupervised learning
+- [✅] Supervised vs unsupervised learning
 - [✅] Linear & logistic regression (sklearn)
 - [✅] Bias vs variance intuition
 
 ### Week 5
-- [ ] Decision trees
+- [✅] Decision trees
 - [ ] Random Forest, Gradient Boosting
-- [ ] Overfitting & regularization
+- [✅] Overfitting & regularization
 
 ### Week 6
 - [ ] Model evaluation metrics
