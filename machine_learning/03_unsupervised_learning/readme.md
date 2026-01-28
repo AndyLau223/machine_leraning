@@ -14,3 +14,13 @@
 - Gaussian distribution
 - real-number evaluation
 - collaborative filtering algorithm
+  - recommend items to you based on rating of users who gave similar ratings as you
+- binary labels
+- content-based filtering
+  - recommend items to you based on features of user and item to find good match 
+- goal of the recommender system
+  - movies most likely to be rated 5 stars by user
+  - products most likely to be purchased 
+  - ads most likely to be clicked on 
+  - products generating the largest profit
+  - video leading to maximum watch time 
