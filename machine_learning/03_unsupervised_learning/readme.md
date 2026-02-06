@@ -24,3 +24,14 @@
   - ads most likely to be clicked on 
   - products generating the largest profit
   - video leading to maximum watch time 
+- Reinforcement learning 
+  - controlling robots 
+  - factory optimization 
+  - financial trading 
+  - playing games 
+- Markov Decision Process (MDP)
+- State action value function 
+  - $$Q(s, a) = R(s, a) + \gamma \max_{a'} Q(s', a')$$
+  - the best possible return from state s is max Q(s,a)
+  - the best possible action in state s is the action a that gives max Q(s,a)
+- 

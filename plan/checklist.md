@@ -83,9 +83,9 @@ Assumed stack alignment:
 ────────────────────────────
 
 ### Week 9
-- [ ] What is a neural network?
+- [✅] What is a neural network?
 - [ ] Perceptron & MLP
-- [ ] Activation functions
+- [✅] Activation functions
 
 ### Week 10
 - [ ] Backpropagation (intuition)
